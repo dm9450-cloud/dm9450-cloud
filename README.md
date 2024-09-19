@@ -1,4 +1,4 @@
-Hi, I'm Dipanshu Maddheshiya , a Full Stack Developer 🚀 from India. Currently, I'm a final year engineering student. 
+Hi, I am Dipanshu Maddheshiya , a Full Stack Developer 🚀 from India. Currently, I'm a final year engineering student. 
 I enjoy the process of learning and building stuff. Whenever I am not coding, I like to spend my time reading books ❤️.
 
 Some things about me:
