@@ -10,7 +10,7 @@ Some things about me:
 
 📖 I'm reading a Little Life by Sunder Pichai;
 
-💬 Ask me about anything, I am happy to help;
+💬 Ask me about anything, I am happy to help.
 
 📫 How to reach me: linkedin.com/in/dm9450;
 
