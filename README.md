@@ -12,7 +12,7 @@ Some things about me:
 
 💬 Ask me about anything, I am happy to help.
 
-📫 How to reach me: linkedin.com/in/dm9450.
+📫 How to reach me: linkedin.com/in/dm9450
 
 <!---
 dm9450-cloud/dm9450-cloud is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
