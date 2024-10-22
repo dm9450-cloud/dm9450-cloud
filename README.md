@@ -4,7 +4,7 @@ I enjoy the process of learning and building stuff. Whenever I am not coding, I 
 Some things about me:
 
 
-💻 I’m currently pursuing a final Year B.Tech in Computer Science in Lovely Professional University, Phagwara, Punjab.
+💻 I’m currently pursuing a final Year B.Tech in Computer Science in Lovely Professional University, Phagwara, Punjab
 
 🌱 I’m currently learning MERN stack development.
 
