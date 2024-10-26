@@ -1,20 +1,24 @@
-Hi, I am Dipanshu Maddheshiya , a Full Stack Developer 🚀 from India. Currently, I'm a final year engineering student. 
-I enjoy the process of learning and building stuff. Whenever I am not coding, I like to spend my time reading books ❤️.
+👋 Hi, I'm Dipanshu Maddheshiya!🚀
 
-Some things about me:
+I’m a Java Developer with a keen interest in DevOps, currently working at Carelon global solutions Company. With 2+ years of experience in developing and optimizing software solutions, I enjoy crafting clean, efficient code while automating processes to enhance productivity.
 
+As a final-year engineering student, I thrive on the challenge of solving complex problems, whether it's debugging Java code or setting up CI/CD pipelines. I believe in a proactive approach—first tackling problems head-on, then seeking insights from mentors or family when needed.
 
-💻 I’m currently pursuing a final Year B.Tech in Computer Science in Lovely Professional University, Phagwara, Punjab
+🔧 Skills & Interests:
 
-🌱 I’m currently learning MERN stack development.
+Java Development: Core Java, Spring Boot, Hibernate, RESTful APIs
 
-📖 I'm reading a Little Life by Sunder Pichai.
+DevOps: CI/CD, Automation, AWS Cloud, Infrastructure as Code
 
-💬 Ask me about anything, I am happy to help.
+Software Engineering: Object-Oriented Design, Clean Code, Agile Methodologies
 
-📫 How to reach me: linkedin.com/in/dm9450
+Continuous Learning: Exploring the latest in Java frameworks and DevOps tools
 
-<!---
-dm9450-cloud/dm9450-cloud is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+💡 Personal Philosophy:
+
+while (!succeed) {
+ try();
+ skill++;
+}
+
+When I'm not coding, you’ll find me solving math problems, hitting the gym, or sharing my tech journey on Instagram. Let’s connect and create impactful software solutions together!
