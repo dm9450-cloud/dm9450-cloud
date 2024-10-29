@@ -4,7 +4,7 @@ I’m a Java Developer with a keen interest in DevOps, currently working at Care
 
 As a final-year engineering student, I thrive on the challenge of solving complex problems, whether it's debugging Java code or setting up CI/CD pipelines. I believe in a proactive approach—first tackling problems head-on, then seeking insights from mentors or family when needed.
 
-🔧 Skills & Interest:
+🔧 Skills & Interests:
 
 Java Development: Core Java, Spring Boot, Hibernate, RESTful APIs
 
