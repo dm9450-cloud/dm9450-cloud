@@ -8,7 +8,7 @@ As a final-year engineering student, I thrive on the challenge of solving comple
 
 Java Development: Core Java, Spring Boot, Hibernate, RESTful APIs
 
-DevOps: CI/CD, Automation, AWS Cloud, Infrastructure as Codes.
+DevOps: CI/CD, Automation, AWS Cloud, Infrastructure as Codes
 
 Software Engineering: Object-Oriented Design, Clean Code, Agile Methodologies
 
