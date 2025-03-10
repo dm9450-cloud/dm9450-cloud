@@ -8,7 +8,7 @@ As a final-year engineering student, I thrive on the challenge of solving comple
 
 MLOps: Model Deployment, Data Pipelines, Experiment Tracking, Automation
 
-DevOps: CI/CD, Automation, Infrastructure as Code, Containerization
+DevOps: CI/CD, Automation, Infrastructure as Code, Containerization 
 
 Cloud Engineering: AWS, Azure, GCP, Cloud-Native Architectures, Serverless Computing
 
