@@ -10,7 +10,7 @@ MLOps: Model Deployment, Data Pipelines, Experiment Tracking, Automation
 
 DevOps: CI/CD, Automation, Infrastructure as Code, Containerization 
 
-Cloud Engineering: AWS, Azure, GCP, Cloud-Native Architectures, Serverless Computing
+Cloud Engineering: AWS, Azure, GCP, Cloud-Native Architectures, Serverless Computing.
 
 Software Engineering: Object-Oriented Design, Clean Code, Agile Methodologies
 
