@@ -10,7 +10,7 @@ Data Engineering:
 ETL/ELT Pipelines, Data Warehousing, Batch & Stream Processing, Apache Spark, Airflow, dbt
 
 Cloud & Big Data:
-AWS (S3, Redshift, Glue), Azure Data Factory, GCP (BigQuery), Snowflake, Databricks
+AWS (S3, Redshift, Glue), Azure Data Factory, GCP (BigQuery), Snowflake, Databricks.
 
 DevOps for Data:
 CI/CD for Data Pipelines, Infrastructure as Code (Terraform), Docker, Kubernetes
