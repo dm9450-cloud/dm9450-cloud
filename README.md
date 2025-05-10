@@ -1,26 +1,29 @@
 👋 Hi, I'm Dipanshu Maddheshiya!🚀
 
-I’m an MLOps/DevOps/Cloud Engineer with a keen interest in automating and optimizing machine learning and software development workflows, currently working at Carelon Global Solutions. With 2+ years of experience in developing and optimizing software solutions, I enjoy crafting clean, efficient code while automating processes to enhance productivity.
+I’m a Data Engineer with a strong foundation in building scalable data pipelines, optimizing data workflows, and enabling data-driven decision-making. Currently working at Carelon Global Solutions, I bring over 3 years of experience in designing and implementing end-to-end data solutions that bridge raw data with meaningful insights.
 
-As a final-year engineering student, I thrive on the challenge of solving complex problems, whether it's debugging machine learning models or setting up CI/CD pipelines. I believe in a proactive approach—first tackling problems head-on, then seeking insights from mentors or family when needed.
+As a final-year engineering student, I enjoy solving complex data problems—from transforming and integrating large datasets to setting up data lakes and orchestrating ETL workflows. I believe in a proactive approach—first diving deep to solve challenges independently, then reaching out to mentors or loved ones for fresh perspectives.
 
 🔧 Skills & Interests:
 
-MLOps: Model Deployment, Data Pipelines, Experiment Tracking, Automation
+Data Engineering:
+ETL/ELT Pipelines, Data Warehousing, Batch & Stream Processing, Apache Spark, Airflow, dbt
 
-DevOps: CI/CD, Automation, Infrastructure as Code, Containerization
+Cloud & Big Data:
+AWS (S3, Redshift, Glue), Azure Data Factory, GCP (BigQuery), Snowflake, Databricks
 
-Cloud Engineering: AWS, Azure, GCP, Cloud-Native Architectures, Serverless Computing
+DevOps for Data:
+CI/CD for Data Pipelines, Infrastructure as Code (Terraform), Docker, Kubernetes
 
-Software Engineering: Object-Oriented Design, Clean Code, Agile Methodologies
+Programming & Tools:
+Python, SQL, Shell Scripting, Pandas, PySpark, Git
 
-Continuous Learning: Exploring the latest in MLOps frameworks, DevOps tools, and cloud technologies
-
-💡 Personal Philosophy:
+Soft Skills:
+Problem Solving, Agile Collaboration, Continuous Learning, Clean Code Practices
 
 while (!succeed) {
-try();
-skill++;
+    try();
+    skill++;
 }
 
-When I'm not coding, you’ll find me solving math problems, hitting the gym, or sharing my tech journey on Instagram. Let’s connect and create impactful software solutions together!
+When I'm not coding, you’ll find me solving math puzzles, working out, or sharing my data tech journey on Instagram. Let’s connect and turn raw data into powerful insights together!
