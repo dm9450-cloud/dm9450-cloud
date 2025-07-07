@@ -1,6 +1,6 @@
 👋 Hi, I'm Dipanshu Maddheshiya!🚀
 
-I’m a Data Engineer with a strong foundation in building scalable data pipelines, optimizing data workflows, and enabling data-driven decision-making. Currently working at Carelon Global Solutions, I bring over 3 years of experience in designing and implementing end-to-end data solutions that bridge raw data with meaningful insights.
+I’m a Data Engineer with a strong foundation in building scalable data pipelines, optimizing data workflows, and enabling data-driven decision-making. Currently working at Carelon Global Solutions, I bring over 3 years of experience in designing and implementing end-to-end data solutions that bridge raw data with meaningful insights
 
 As a final-year engineering student, I enjoy solving complex data problems—from transforming and integrating large datasets to setting up data lakes and orchestrating ETL workflows. I believe in a proactive approach—first diving deep to solve challenges independently, then reaching out to mentors or loved ones for fresh perspectives
 
