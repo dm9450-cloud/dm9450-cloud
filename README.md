@@ -7,7 +7,7 @@ As a final-year engineering student, I enjoy solving complex data problems—fro
 🔧 Skills & Interests:
 
 Data Engineering:
-ETL/ELT Pipelines, Data Warehousing, Batch & Stream Processing, Apache Spark, Airflow, dbt.
+ETL/ELT Pipelines, Data Warehousing, Batch & Stream Processing, Apache Spark, Airflow, dbt
 
 Cloud & Big Data:
 AWS (S3, Redshift, Glue), Azure Data Factory, GCP (BigQuery), Snowflake, Databricks
