@@ -1,6 +1,6 @@
 👋 Hi, I'm Dipanshu Maddheshiya! 🚀
 
-I’m a DevOps Engineer passionate about building scalable, automated, and reliable cloud infrastructure. Currently working at Carelon Global Solutions, I bring 2+ years of hands-on experience in deploying CI/CD pipelines, managing containerized workloads, and optimizing cloud resources for performance and cost.
+I’m a DevOps Engineer passionate about building scalable, automated, and reliable cloud infrastructure. Currently working at Carelon Global Solutions, I bring 3+ years of hands-on experience in deploying CI/CD pipelines, managing containerized workloads, and optimizing cloud resources for performance and cost.
 
 I specialize in bridging development and operations by implementing infrastructure as code, automating workflows, and ensuring seamless software delivery. I thrive in solving complex challenges—whether it's automating a deployment pipeline or migrating applications to the cloud—and believe in a “figure it out first, ask smart later” approach.
 
