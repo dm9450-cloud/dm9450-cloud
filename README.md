@@ -1,29 +1,41 @@
-👋 Hi, I'm Dipanshu Maddheshiya!🚀
+👋 Hi, I'm Dipanshu Maddheshiya! 🚀
 
-I’m a Data Engineer with a strong foundation in building scalable data pipelines, optimizing data workflows, and enabling data-driven decision-making. Currently working at Carelon Global Solutions, I bring over 3 years of experience in designing and implementing end-to-end data solutions that bridge raw data with meaningful insights.
+I’m a DevOps Engineer passionate about building scalable, automated, and reliable cloud infrastructure. Currently working at Carelon Global Solutions, I bring 2+ years of hands-on experience in deploying CI/CD pipelines, managing containerized workloads, and optimizing cloud resources for performance and cost.
 
-As a final-year engineering student, I enjoy solving complex data problems—from transforming and integrating large datasets to setting up data lakes and orchestrating ETL workflows. I believe in a proactive approach—first diving deep to solve challenges independently, then reaching out to mentors or loved ones for fresh perspectives
+I specialize in bridging development and operations by implementing infrastructure as code, automating workflows, and ensuring seamless software delivery. I thrive in solving complex challenges—whether it's automating a deployment pipeline or migrating applications to the cloud—and believe in a “figure it out first, ask smart later” approach.
 
 🔧 Skills & Interests:
 
-Data Engineering:
-ETL/ELT Pipelines, Data Warehousing, Batch & Stream Processing, Apache Spark, Airflow, dbt
+DevOps Engineering:
+CI/CD Pipelines, GitOps, Monitoring & Logging, Incident Management, Cloud Migrations
 
-Cloud & Big Data:
-AWS (S3, Redshift, Glue), Azure Data Factory, GCP (BigQuery), Snowflake, Databricks.
+Cloud Platforms:
+AWS (EC2, S3, Lambda, VPC, CloudFormation, RDS, Route 53, IAM), AWS CLI
 
-DevOps for Data:
-CI/CD for Data Pipelines, Infrastructure as Code (Terraform), Docker, Kubernetes
+Infrastructure as Code & Automation:
+Terraform, AWS CloudFormation, Ansible, Bash, YAML
 
-Programming & Tools:
-Python, SQL, Shell Scripting, Pandas, PySpark, Git
+Containerization & Orchestration:
+Docker, Kubernetes (EKS)
+
+CI/CD Tools:
+Jenkins, GitLab CI/CD, GitHub Actions, AWS CodePipeline, CircleCI
+
+Programming & Scripting:
+Python, Bash, YAML, SQL
+
+Monitoring & Observability:
+ELK Stack, AWS CloudWatch
 
 Soft Skills:
-Problem Solving, Agile Collaboration, Continuous Learning, Clean Code Practices
+Problem Solving, Agile Collaboration, Clean Code Practices, Continuous Learning
 
-while (!succeed) {
+python
+Copy
+Edit
+while (!automated) {
     try();
     skill++;
 }
+When I'm not automating infrastructure or debugging cloud issues, you’ll find me exploring DevOps tools, solving puzzles, working out, or sharing my tech journey on Instagram. Let’s connect and create seamless, scalable systems together!
 
-When I'm not coding, you’ll find me solving math puzzles, working out, or sharing my data tech journey on Instagram. Let’s connect and turn raw data into powerful insights together!
